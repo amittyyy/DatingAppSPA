@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAppAPI\\DatingAppAPI.csproj": {}
+    "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAPPApi\\DatingAppAPI.csproj": {}
   },
   "projects": {
-    "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAppAPI\\DatingAppAPI.csproj": {
+    "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAPPApi\\DatingAppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAppAPI\\DatingAppAPI.csproj",
+        "projectUniqueName": "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAPPApi\\DatingAppAPI.csproj",
         "projectName": "DatingAppAPI",
-        "projectPath": "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAppAPI\\DatingAppAPI.csproj",
+        "projectPath": "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAPPApi\\DatingAppAPI.csproj",
         "packagesPath": "C:\\Users\\amity\\.nuget\\packages\\",
-        "outputPath": "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAppAPI\\obj\\",
+        "outputPath": "E:\\DotNetApps\\ASpNetCore_AngularJS8\\DatingAPPApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
