@@ -58,3 +58,9 @@ E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Microso
 E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DotNetApps\ASpNetCore_AngularJS8\DatingAPPApi\bin\Debug\netcoreapp3.1\Data\UserSeedData.json
+E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\DotNetApps\ASpNetCore_AngularJS8\DatingAppAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
